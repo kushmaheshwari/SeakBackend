@@ -1,0 +1,27 @@
+Agent 18 Flexshield Case For iPhone 6/6s - Confetti,811340025086,24.99
+Agent 18 Flexshield Case For iPhone 6/6s - Preppy,811340025093,24.99
+Agent 18 Flexshield Case For iPhone 6/6s - Pastel,811340025109,24.99
+
+
+
+
+{
+	"title": "Agent 18 Flexshield Case For iPhone 6/6s",
+	"description": "Safeguard your Apple iPhone 6 or 6s with this Agent18 FlexShield case, which features TPU construction for dependable protection from daily wear and tear. The confetti design adds a colorful pop of personality to your device.",
+	"price": 24.99,
+	"category": "Cases",
+	"types": [{ 
+				 "color": "Confetti",
+				 "image url": "http://images.prosperentcdn.com/images/250x250/cdn.productinformation.net/images/products/347422.jpg",
+				 "upc": 811340025086
+			  },{
+			  	 "color": "Preppy",
+				 "image url": "http://images.prosperentcdn.com/images/250x250/cdn.productinformation.net/images/products/347423.jpg",
+				 "upc": 811340025086
+
+	          },{
+	          	 "color": "Preppy",
+				 "image url": "http://img.bbystatic.com/BestBuy_US/images/products/4693/4693913_sc.jpg",
+				 "upc": 811340025086
+				}]
+}

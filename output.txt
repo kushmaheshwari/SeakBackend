@@ -1,0 +1,1110 @@
+null
+
+{
+    "category": "Case", 
+    "price": 24.99, 
+    "description": "Safeguard your Apple iPhone 6 or 6s with this Agent18 FlexShield case, which features TPU construction for dependable protection from daily wear and tear. The confetti design adds a colorful pop of personality to your device.", 
+    "types": [
+        {
+            "color": "Confetti", 
+            "imageurl": "http://images.prosperentcdn.com/images/250x250/cdn.productinformation.net/images/products/347422.jpg", 
+            "upc": "811340025086"
+        }, 
+        {
+            "color": "Preppy", 
+            "imageurl": "http://images.prosperentcdn.com/images/250x250/cdn.productinformation.net/images/products/347423.jpg", 
+            "upc": "811340025093"
+        }, 
+        {
+            "color": "Pastel", 
+            "imageurl": "http://img.bbystatic.com/BestBuy_US/images/products/4693/4693913_sc.jpg", 
+            "upc": "811340025109"
+        }
+    ], 
+    "title": "Agent 18 Flexshield Case For iPhone 6/6s"
+}
+
+{
+    "category": "Accessories", 
+    "price": 24.99, 
+    "description": "Get a great fit! Great for jogging, cycling, hiking and more. Longer strap with adjustable closure for a comfortable fit. Slot pocket for safeguarding your credit card, driver's license, etc. Lightweight material won't slow down your workout. Belkin(R) SportFit Armband For iPhone(R) 5, Black is one of many iPhone Accessories available through Office Depot. Made by Belkin.", 
+    "types": [
+        {
+            "color": "Blacktop And Overcast", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A0TP_1_2014091025897696.jpg", 
+            "upc": "722868971963"
+        }
+    ], 
+    "title": "Belkin Sport Fit Armband For iPhone 5/5c/5s/SE"
+}
+
+{
+    "category": "Accessories", 
+    "price": 24.99, 
+    "description": "Belkin Sport-Fit Carrying Case (Armband) For Iphone - Blacktop, Overcast - Scratch Resistant - Neoprene F8W500-C00", 
+    "types": [
+        {
+            "color": "Blacktop And Overcast", 
+            "imageurl": "http://www.pcrush.com/images/180/999632.jpg", 
+            "upc": "745883675227"
+        }
+    ], 
+    "title": "Belkin Sport Fit Armband For iPhone 6/6s"
+}
+
+{
+    "category": "Accessories", 
+    "price": 24.99, 
+    "description": "", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/cs.jpg", 
+            "upc": "745883676057"
+        }
+    ], 
+    "title": "Belkin Sport Fit Armband For Galaxy S6/S6 Edge"
+}
+
+{
+    "category": "Accessories", 
+    "price": 24.99, 
+    "description": "Large Size/ For Devices 4.9 \"\"/ Hand-Washable/ Reflective Accents To Improve Visibility/ Easy Access To Ports And Touchscreen/ Black Finish", 
+    "types": [
+        {
+            "color": "Blacktop", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/V0CK_1_201702011712770066.jpg", 
+            "upc": "745883679119"
+        }
+    ], 
+    "title": "Belkin Sport Fit Armband For Small Devices (Less Than 4.9 In)"
+}
+
+{
+    "category": "Wires", 
+    "price": 29.99, 
+    "description": "Large Size/ For Devices 4.9 \"\" - 5.5 \"\" Devices/ Hand-Washable/ Reflective Accents To Improve Visibility/ Easy Access To Ports And Touchscreen/ Black Finish", 
+    "types": [
+        {
+            "color": "5.5 In)", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20150925531270507.jpg", 
+            "upc": "745883679126"
+        }
+    ], 
+    "title": "Belkin Sport Fit Armband For Large Devices (4.9 In - 5.5 In)"
+}
+
+{
+    "category": "Wires", 
+    "price": 19.99, 
+    "description": "", 
+    "types": [
+        {
+            "imageurl": "http://img1.r10.io/PIC/73057773/0/1/250/73057773.jpg", 
+            "upc": "722868842799"
+        }
+    ], 
+    "title": "Belkin 6 Ft 3.5mm Mini Mixit Stereo Aux Cable"
+}
+
+{
+    "category": "Wires", 
+    "price": 14.99, 
+    "description": "Belkin manufactures the highest quality and largest selection of computer cables in the world. All Belkin cables carry an assurance of excellence obvious both inside and out. From our tough-but-flexible casings to our exclusive wiring configurations, Belkin cable technology guarantees peak performance and optimal data transmission. Its not surprising each also carries a Manufacturers Lifetime Warranty. Manufacturer: Belkin International, Inc Manufacturer Part Number: AV10127TT03-BLU Manufacturer Website Ad...", 
+    "types": [
+        {
+            "color": "Blue", 
+            "imageurl": "http://images.frys.com/art/product/300x300/7362724.01.prod.jpg", 
+            "upc": "722868889015"
+        }, 
+        {
+            "color": "Green", 
+            "imageurl": "http://www.pcrush.com/images/180/1138669.jpg", 
+            "upc": "722868889022"
+        }, 
+        {
+            "color": "Pink", 
+            "imageurl": "http://img1.r10.io/PIC/52317043/0/1/250/52317043.jpg", 
+            "upc": "722868889039"
+        }, 
+        {
+            "color": "Purple", 
+            "imageurl": "http://images.hookbag.ca/67101c9381aa3c3d/image.jpg", 
+            "upc": "722868889046"
+        }, 
+        {
+            "color": "Red", 
+            "imageurl": "http://img1.r10.io/PIC/52314135/0/1/250/52314135.jpg", 
+            "upc": "722868889053"
+        }, 
+        {
+            "color": "Black", 
+            "imageurl": "http://img.bbystatic.com/BestBuy_US/images/products/4859/4859669_sc.jpg", 
+            "upc": "722868889480"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "https://i5.walmartimages.com/asr/9d434f2c-7839-403a-9de7-3e5b8f680bb0_1.a1fadbd4a531007ac4530ae671cb7322.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff", 
+            "upc": "722868908020"
+        }
+    ], 
+    "title": "Belkin 3 Ft 3.5mm Mixit Stereo Aux Cable"
+}
+
+{
+    "category": "Wires", 
+    "price": 19.99, 
+    "description": "Crank up the volume with versatile MIXITUP auxiliary cable! Play music from your car stereo using the 3.5-mm auxiliary jack. Cable connects your phone or tablet on one end and your speaker on the other. Provides a firm connection between your audio devices for crisp audio performance. Its quality construction helps minimize interference and noise, so you'll be able to listen to music and movie audio tracks without any crackling or cutouts. Matte metallic finish and braided cable jacket offers a sleek, mode...", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A9M3_1_20160805116640971.jpg", 
+            "upc": "745883682140"
+        }, 
+        {
+            "color": "Gold", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A25V_1_20160205635135655.jpg", 
+            "upc": "745883682157"
+        }, 
+        {
+            "color": "Silver", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A24G_1_20161104713447355.jpg", 
+            "upc": "745883682171"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://img1.r10.io/PIC/104111783/0/1/250/104111783.jpg", 
+            "upc": "745883682188"
+        }
+    ], 
+    "title": "Belkin 4 Ft 3.5mm Mixit Metallic Stereo Aux Cable"
+}null
+
+{
+    "category": "Wires", 
+    "price": 39.99, 
+    "description": "Keep your devices charged and ready when you are 2 USB ports ready to charge tablets, smartphones and other USB-enabled devices whenever you can't find an outlet. Fits easily into handbags, briefcases and backpacks, making it ideal for busy professionals or long trips. Rated at 4,000 mAh and supports up to a 2.4 amp charge. Belkin Power Pack 4000, Black is one of many Chargers & Adapters available through Office Depot. Made by Belkin.", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "https://i5.walmartimages.com/asr/26006229-4fb7-4b63-9bbe-a8e60fb4db6a_1.d0b765c917d5c42e865a7b7c17952dd4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff", 
+            "upc": "745883685158"
+        }
+    ], 
+    "title": "Belkin Mixit Power Pack 4000 Dual Port USB Backup Battery With 6 Inch Micro USB Cable (4000 Mah)"
+}
+
+{
+    "category": "Wires", 
+    "price": 29.99, 
+    "description": "Refuel your mobile devices while you're on the go with 2,000 mAh of power. Sleek and compact to fit your busy lifestyle. Compatible with most USB-enabled devices, such as your tablet, smartphone or MP3 player. 2000 mAh battery provides ample power for your device. Compact, lightweight design makes it easy to take the battery pack on the go. Includes a 0.5ft. cable. Backed by the manufacturer's 1-year limited warranty. Belkin(R) MIXIT(TM) Power Pack 2000 Battery Pack For USB Devices, Black is one of many Ch...", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A338_130918273430997805Fw80nAg7Vs.jpg", 
+            "upc": "745883685165"
+        }
+    ], 
+    "title": "Belkin Mixit Power Pack 2000 Single Port USB Backup Battery With 6 Inch Micro USB Cable (2000 Mah)"
+}
+
+{
+    "category": "Wires", 
+    "price": 14.99, 
+    "description": "Belkin Mixit 30-Pin to USB ChargeSync Cable, Black", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://c.shld.net/rpx/i/s/pi/mp/10139565/5362875129?src=http%3A%2F%2Famazonlot.com%2Fimg%2FPC%2F316lh4JtbuL.jpg&d=0525e73c1152b7941c5e1f982c03bafeccf0220d", 
+            "upc": "722868907160"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://img1.r10.io/PIC/77395878/0/1/250/77395878.jpg", 
+            "upc": "722868907221"
+        }
+    ], 
+    "title": "Belkin Mixit 30 Pin USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 19.99, 
+    "description": "Belkin MIXIT Lightning to USB ChargeSync - iPad / iPhone / iPod charging / data cable - Lightning / USB - 4 pin USB Type A (M) - Lightning (M) - 4 ft - black - for Apple iPad Air; iPad Air 2; iPad mini; iPad mini 2; 3; iPad with Retina display (4th generation); iPhone 5, 5c, 5s, 6, 6 Plus; iPod nano (7G); iPod touch (5G)", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://www.mwave.com/mwave/specHR/images/AA95311.jpg", 
+            "upc": "722868959640"
+        }, 
+        {
+            "color": "Blue", 
+            "imageurl": "http://c.shld.net/rpx/i/s/pi/mp/23416/6185447517?src=http%3A%2F%2Fwww.techbuys.com%2Fprod_images%2Fpi134%2F%2F282845l.jpg&d=27b89ea7efc90b45f69635363be2b2b410f4c78c", 
+            "upc": "722868959657"
+        }, 
+        {
+            "color": "Green", 
+            "imageurl": "http://images.frys.com/art/product/300x300/7734098.01.prod.jpg", 
+            "upc": "722868959664"
+        }, 
+        {
+            "color": "Pink", 
+            "imageurl": "http://c.shld.net/rpx/i/s/pi/mp/32762/2371004811?src=http%3A%2F%2Fwww.toysrus.com%2Fgraphics%2Fproduct_images%2FpTRU1-17285169enh-z6.jpg&d=346ac69ac9d0ce8e05dd27eb24c48bb8a34f697c", 
+            "upc": "722868959671"
+        }, 
+        {
+            "color": "Purple", 
+            "imageurl": "http://www.staples.co.uk/content/images/product/424758_1_xnl.jpg", 
+            "upc": "722868959688"
+        }, 
+        {
+            "color": "Red", 
+            "imageurl": "http://www.officedepot.com/pictures/us/od/sk/lg/148844_sk_lg.jpg", 
+            "upc": "722868959695"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://site.unbeatablesale.com/img410/dhf8j023bt04wht.gif", 
+            "upc": "722868959701"
+        }
+    ], 
+    "title": "Belkin Mixit Lightning USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 14.99, 
+    "description": "Belkin Mixit Micro-USB to USB ChargeSync Cable, Black", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://www.mwave.com/mwave/specHR/images/BG32453.jpg", 
+            "upc": "722868969052"
+        }, 
+        {
+            "color": "Blue", 
+            "imageurl": "http://img.bbystatic.com/BestBuy_US/images/products/5299/5299211_sc.jpg", 
+            "upc": "722868969069"
+        }, 
+        {
+            "color": "Green", 
+            "imageurl": "http://www.pcrush.com/images/180/1256968.jpg", 
+            "upc": "722868969076"
+        }, 
+        {
+            "color": "Pink", 
+            "imageurl": "http://img.bbystatic.com/BestBuy_US/images/products/5299/5299210_sc.jpg", 
+            "upc": "722868969083"
+        }, 
+        {
+            "color": "Purple", 
+            "imageurl": "http://www.pcrush.com/images/180/nopic.jpg", 
+            "upc": "722868969090"
+        }, 
+        {
+            "color": "Red", 
+            "imageurl": "http://img1.r10.io/PIC/75479132/0/1/250/75479132.jpg", 
+            "upc": "722868969106"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://www.officedepot.com/pictures/us/od/sk/lg/865682_sk_lg.jpg", 
+            "upc": "722868969113"
+        }
+    ], 
+    "title": "Belkin Mixit Micro USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 19.99, 
+    "description": "SuperSpeed USB 3.0/ Plugs Into Any USB Port/ 3 Ft./ Offers Faster Device Charging Than USB 2.0/ Cable Is Also Backwards Compabtile With USB 2.0/ Black FInish", 
+    "types": [
+        {
+            "color": "3 Ft Cable Length", 
+            "imageurl": "http://images.11main.com/s3/11main-images/product/7676185/image/748d56986fef7dfe56e80926b6f83ae2.jpeg?width=200&height=200", 
+            "upc": "745883653515"
+        }
+    ], 
+    "title": "Belkin Rapid Transfer Micro B To 3.0 USB Cable For Galaxy Devices With Micro B Tip"
+}
+
+{
+    "category": "Wires", 
+    "price": 29.99, 
+    "description": "Lightning fast connections Connect your iPhone(R), iPod(R), iPad(R) or iPad(R) Mini to any device with a USB port. Experience a fast and efficient charge and sync. Features 4-ft cable. Belkin(R) MIXIT(TM) Lightning to USB Cable, Gold is one of many Chargers & Adapters available through Office Depot. Made by Belkin.", 
+    "types": [
+        {
+            "color": "Gold", 
+            "imageurl": "http://i5.walmartimages.com/asr/7c08a800-300e-46a0-a234-ef26179fbaa6_1.6a30e0831eaef0051e208654fe114ed1.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff", 
+            "upc": "745883656332"
+        }, 
+        {
+            "color": "Gray", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A98Y_1_201606091886639811.jpg", 
+            "upc": "745883656349"
+        }
+    ], 
+    "title": "Belkin Mixit Metallic Lightning USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 29.99, 
+    "description": "Connects to your iPhone 5 or later model Charges and syncs all of your Lightning connector devices quickly and safely, using just 1 cable. Ultra-compact cable syncs music and photos to and from your laptop in just seconds. Comes with a 4ft. cord. Belkin(R) Metallic Lightning To USB Sync Cable, 4ft., Silver is one of many USB Cables available through Office Depot. Made by Belkin.", 
+    "types": [
+        {
+            "color": "Silver", 
+            "imageurl": "https://i5.walmartimages.com/asr/50a0cfc2-6dc1-4213-b201-8c9a213bc37e_1.3a31a3c3c8e029231df981caad05c29c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff", 
+            "upc": "745883656356"
+        }
+    ], 
+    "title": "Belkin Metallic Lightning USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 9.99, 
+    "description": "Belkin F2CU012BT06INBK 6\" Black Micro USB Cable Type: USB Type: Others Connector Number: 1", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/V00C_1_201607072055140751.jpg", 
+            "upc": "745883666744"
+        }
+    ], 
+    "title": "Belkin Mixit Micro USB To USB Charge Sync Cable (6 In Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 19.95, 
+    "description": "Charge and sync your device with Belkin F2CU012BT3M BLK 9.8 feet Micro USB to USB Cable. Simply plug the USB end directly into any USB port to stay connected while you're at home, at work, or on the road.", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A24G_1_20170129604727365.jpg", 
+            "upc": "745883671953"
+        }
+    ], 
+    "title": "Belkin Mixit Micro USB To USB Charge Sync Cable (10 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 29.99, 
+    "description": "Keep your device charged, synched and ready for anything Compatible with iPhone(R) 5, 5th-generation iPod(R) touch, 4th-generation iPad(R) and iPad(R) mini. Also compatible with MacBook(R) Air 11. Plugs into your computer to charge and sync. Charge anywhere using your car or wall charger with USB port. Small, durable Lightning connector is reversible for easy connecting. Generous 4in. cord allows you to use your device while charging. Belkin(R) MIXITUP Metallic Lightning-to-USB Cable For iPod(R) Touch/iPho...", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A9M3_1_201605271082570468.jpg", 
+            "upc": "745883682102"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20150925531238748.jpg", 
+            "upc": "745883682119"
+        }
+    ], 
+    "title": "Belkin Mixit Metallic Lightning USB To USB Charge Sync Cable (4 Ft Length)"
+}
+
+{
+    "category": "Wires", 
+    "price": 24.99, 
+    "description": "Rapidly charge and sync your Android devices Charge in any USB 2.0 port. Connect your mobile phone or tablet to your computer or charger. Great for syncing media or uploading data. Features a matte metallic finish and braided cable jacket a sleek, modern look. Aluminum finish is designed to withstand heavy use. 4ft. length reaches under your car seats, desks and dressers for comfortable, convenient connection. Compact enough to take it on-the-go! Cable coils up for easy storage in your bag or backpack. Bel...", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://images.highspeedbackbone.net/SKUimages/large/CNET-13836161.jpg", 
+            "upc": "745883682249"
+        }, 
+        {
+            "color": "Gold", 
+            "imageurl": "https://i5.walmartimages.com/asr/3af9541b-db4b-405a-82c5-6811689afd6a_1.47b0759e245d0e4dda6c881ea9046bca.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff", 
+            "upc": "745883682256"
+        }, 
+        {
+            "color": "Silver", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20160125624908360.jpg", 
+            "upc": "745883682270"
+        }, 
+        {
+            "color": "White", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20151009542274868.jpg", 
+            "upc": "745883682287"
+        }
+    ], 
+    "title": "Belkin Mixit Metallic Micro USB To USB Charge Sync Cable (4 Ft Length)"
+}null
+
+{
+    "category": "Case", 
+    "price": 20.0, 
+    "description": "The Case-Mate Barely There Black Case for 4.7\" iPhone 6 forms a classic and protective design that shows off the slim profile of your device. The impact resistant hard shell covers the back and sides, while the lay-flat feature protects the front of your", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://i1.expansys.com/img/l/266066/case-mate-barely-there-case-for-apple-iphone-6-black.jpg", 
+            "upc": "846127163477"
+        }, 
+        {
+            "color": "Clear", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/1523/51291328_1.jpg", 
+            "upc": "846127163484"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 25.0, 
+    "description": "Case-Mate Galaxy S6 Barely There Clear", 
+    "types": [
+        {
+            "color": "Clear", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A4FT_1_20150429362737718.jpg", 
+            "upc": "846127166942"
+        }, 
+        {
+            "color": "Black", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/77744345_1.jpg", 
+            "upc": "846127166959"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 25.0, 
+    "description": "", 
+    "types": [
+        {
+            "color": "Clear", 
+            "imageurl": "http://i1.expansys.com/img/l/274739/case-mate-barely-there-case-for-htc-one-m9-clear.jpg", 
+            "upc": "846127167024"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Thenerds.net", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.hookbag.ca/b949bcfc4ba36ef3/image.jpg", 
+            "upc": "846127155601"
+        }
+    ], 
+    "title": "iPhone 5c Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Apple - iPhone 5/5SCM030090CaseCase-mateChromeClearImpact ResistantIt's quite the show off. This protective, two-piece case keeps it cool with its smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard shell and coordinating bumper protects against impacts and falls. Metallic chrome buttons accent and complete the polished look of your device.MetallicNaked ToughNaked Tough for iPhone 5/5SPlasticPolishedSmoothhttp://www...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.highspeedbackbone.net/SKUimages/medium/CNET-RAE-102593285.jpg", 
+            "upc": "846127159715"
+        }
+    ], 
+    "title": "iPhone 5/5s/SE Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "It's quite the show off. This protective, two-piece Naked Tough case for Samsung Galaxy S5 keeps it cool with its smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard shell and coordinating bumper protects against impacts and falls. Metallic chrome buttons accent and complete the polished look of your device.CM030887CaseCase-mateClearImpact ResistantNaked ToughNaked Tough Case for Samsung Galaxy S5PolishedSamsung - G...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://www.pcrush.com/images/180/1000707.jpg", 
+            "upc": "846127162456"
+        }
+    ], 
+    "title": "Galaxy S5 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 40.0, 
+    "description": "Shield your Apple iPhone 6 or 6s on the go with this Case-Mate Naked Tough CM031382 case, which features a 2-piece design with a rugged polycarbonate shell that guards against scratches and a coordinating bumper that resists damage caused by impacts.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.hookbag.ca//image.jpg", 
+            "upc": "846127163453"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "CaseMate iPhone 6 Plus Case - Naked Tough-Handbags", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A4FT_1_2014110674261675.jpg", 
+            "upc": "846127163613"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "The Case-Mate Naked Tough Case (Clear/Clear) designed for maximum protection for your Motorola Droid Turbo. The dual layers form together to guard against any fumbles. The ABS plastic hard shell wraps around the interior bumper for extra protection, as well as providing an easy-to-hold grip. The Tough Case provides dual layers of tough protection for your Motorola Droid Turbo. The Case-Mate Naked Tough Case is a protective, two-piece case. The case is created with an ultra slim design. The lightweight, min...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://img1.r10.io/PIC/93849594/0/1/250/93849594.jpg", 
+            "upc": "846127164320"
+        }
+    ], 
+    "title": "Motorola Droid Turbo Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "The Case-Mate Naked Tough Smoke/Black Case is a clear, dual-layered case for 5.5\" iPhone 6 plus that offers a smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard s", 
+    "types": [
+        {
+            "color": "Smoke With Black Bumper", 
+            "imageurl": "http://i1.expansys.com/img/l/266081/case-mate-tough-naked-for-apple-iphone-6-plus-grey.jpg", 
+            "upc": "846127164399"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Ultra Slim, Dual-Layer Design With Protective Bumper/ Enhanced Impact Resistance And Shock Dispersion/ Transparent Smooth Finish With Anti-Scratch Technology/ Metal Button Accents For A Refined Finish/ Clear Finish", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://i1.expansys.com/img/l/269608/case-mate-tough-naked-case-for-samsung-galaxy-note-4-clear-clear.jpg", 
+            "upc": "846127164603"
+        }
+    ], 
+    "title": "Galaxy Note 4 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Ultra Slim/ Dual-Layer Design With Protective Bumper/ Integrated Stand/ Lightweight/ Minimalist Design/ Transparent Smooth Finish With Anti-Scratch Technology/ Nexus 6 Not Included/ Clear Finish", 
+    "types": [
+        {
+            "color": "Clear With Clear Stand", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/86175996_1.jpg", 
+            "upc": "846127164634"
+        }
+    ], 
+    "title": "Motorola Nexus 6 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Compatible with Samsung Galaxy S 6 cell phones, this Case-Mate Naked Tough CM032321 transparent hard shell case features polycarbonate construction and a TPU bumper, offering enhanced impact resistance and shock absorption.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/85755912_1.jpg", 
+            "upc": "846127166775"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Case-Mate HTC One M9 Naked Tough Clear Warranty: Manufacturer's Warranty", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/83276750_1.jpg", 
+            "upc": "846127167000"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "This Case-Mate Naked Tough CM032404 case features polycarbonate material and a TPU bumper to absorb shock and protect your Samsung Galaxy S6 edge cell phone against minor damage. The smooth, scratch-resistant exterior offers durability and a sleek look.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20160223645201005.jpg", 
+            "upc": "846127167130"
+        }
+    ], 
+    "title": "Galaxy S6 Edge Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Case-Mate - Naked Tough Case for LG G4 in Clear/Clear", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/82799308_1.jpg", 
+            "upc": "846127167765"
+        }
+    ], 
+    "title": "LG G4 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Banish the risk of breaks with this Case-Mate Naked iPhone 7 case. Solid drop protection and shock dispersion ensure that any impacts are spread out evenly over the phone, keeping delicate internal components safe from accidents, while the ultra-slim design keeps this Case-Mate Naked iPhone 7 case from taking up too much space.", 
+    "types": [
+        {
+            "color": "Iridescent", 
+            "imageurl": "https://cdn.shopify.com/s/files/1/0796/3401/products/cmi_Jeep_Naked-Tough-Iridescent_CM034674_1_72437214-7b36-45e9-a8a9-c8534f140e45.png?v=1473364375", 
+            "upc": "846127171830"
+        }
+    ], 
+    "title": "iPhone 7 Case Mate Naked Tough Case"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Get a case that works as hard your iPhone with this Case-Mate Tough iPhone 7 Plus case. Metal buttons add a delicate counterpoint to the iridescent effect and also protect your phone's buttons. Enhanced shock dispersion from this Case-Mate Tough iPhone 7 Plus case prevents accidents from turning into calamities.", 
+    "types": [
+        {
+            "color": "Iridescent", 
+            "imageurl": "https://cdn.shopify.com/s/files/1/0796/3401/products/cmi_Landrover_Naked-Tough-Iridescent_CM034756_1.png?v=1473366397", 
+            "upc": "846127172240"
+        }
+    ], 
+    "title": "iPhone 7+ Case Mate Naked Tough Case"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Make your Apple iPhone 6 or 6s sparkle with this Case-Mate The Glam Collection Sheer Glam CM031409 case, which features a translucent, glitter-coated inlay for a distinctive look. The dual-layer design and bumper safeguard your device on the go.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://target.scene7.com/is/image/Target/50598840?wid=1000&hei=1000", 
+            "upc": "846127163552"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Protect your Apple iPhone 6 Plus or 6s Plus with this Case-Mate The Glam Collection Sheer Glam CM031439 case, which features a dual-layer design that offers defense against shocks and impacts. The translucent, glitter-coated inlay offers an attractive look.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/1523/29902851_1.jpg", 
+            "upc": "846127163590"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Shield your Samsung Galaxy S 6 cell phone with this Case-Mate Sheer Glam CM032327 case, which features a hard shell constructed of durable polycarbonate material and a soft TPU bumper for enhanced shock absorption.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/82878938_1.jpg", 
+            "upc": "846127166805"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Safeguard your HTC One (M9) cell phone with this Case-Mate Sheer Glam CM032441 hard shell case, which absorbs shock from drops as high as 3' to help prevent damage to your device. Metal button accents and a translucent glitter effect offer a fun look.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/85755679_1.jpg", 
+            "upc": "846127167208"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Shield your Samsung Galaxy S 6 Edge cell phone with this Case-Mate Sheer Glam CM032474 case, which resists scratches and protects against damage caused by impacts. The polycarbonate shell and TPU bumper offer a durable design.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "https://cdn.shopify.com/s/files/1/0796/3401/products/cmi_Sheer-Glam_Samsung-Galaxy-S6-Edge_Clear_CM032474_1.png?v=1430865889", 
+            "upc": "846127167314"
+        }
+    ], 
+    "title": "Galaxy S6 Edge Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Defend your LG G4 cell phone with this Case-Mate Sheer Glam CM032665 case, which combines a polycarbonate hard shell and a TPU bumper for protection against scratches, shocks and more. The translucent glitter effect offers a stylish look.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/1523/47644219_1.jpg", 
+            "upc": "846127167802"
+        }
+    ], 
+    "title": "LG G4 Case Mate Sheer Glam"
+}null
+
+{
+    "category": "Case", 
+    "price": 20.0, 
+    "description": "The Case-Mate Barely There Black Case for 4.7\" iPhone 6 forms a classic and protective design that shows off the slim profile of your device. The impact resistant hard shell covers the back and sides, while the lay-flat feature protects the front of your", 
+    "types": [
+        {
+            "color": "Black", 
+            "imageurl": "http://i1.expansys.com/img/l/266066/case-mate-barely-there-case-for-apple-iphone-6-black.jpg", 
+            "upc": "846127163477"
+        }, 
+        {
+            "color": "Clear", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/1523/51291328_1.jpg", 
+            "upc": "846127163484"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 25.0, 
+    "description": "Case-Mate Galaxy S6 Barely There Clear", 
+    "types": [
+        {
+            "color": "Clear", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A4FT_1_20150429362737718.jpg", 
+            "upc": "846127166942"
+        }, 
+        {
+            "color": "Black", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/77744345_1.jpg", 
+            "upc": "846127166959"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 25.0, 
+    "description": "", 
+    "types": [
+        {
+            "color": "Clear", 
+            "imageurl": "http://i1.expansys.com/img/l/274739/case-mate-barely-there-case-for-htc-one-m9-clear.jpg", 
+            "upc": "846127167024"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Ultra Thin Barely There"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Thenerds.net", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.hookbag.ca/b949bcfc4ba36ef3/image.jpg", 
+            "upc": "846127155601"
+        }
+    ], 
+    "title": "iPhone 5c Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Apple - iPhone 5/5SCM030090CaseCase-mateChromeClearImpact ResistantIt's quite the show off. This protective, two-piece case keeps it cool with its smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard shell and coordinating bumper protects against impacts and falls. Metallic chrome buttons accent and complete the polished look of your device.MetallicNaked ToughNaked Tough for iPhone 5/5SPlasticPolishedSmoothhttp://www...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.highspeedbackbone.net/SKUimages/medium/CNET-RAE-102593285.jpg", 
+            "upc": "846127159715"
+        }
+    ], 
+    "title": "iPhone 5/5s/SE Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "It's quite the show off. This protective, two-piece Naked Tough case for Samsung Galaxy S5 keeps it cool with its smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard shell and coordinating bumper protects against impacts and falls. Metallic chrome buttons accent and complete the polished look of your device.CM030887CaseCase-mateClearImpact ResistantNaked ToughNaked Tough Case for Samsung Galaxy S5PolishedSamsung - G...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://www.pcrush.com/images/180/1000707.jpg", 
+            "upc": "846127162456"
+        }
+    ], 
+    "title": "Galaxy S5 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 40.0, 
+    "description": "Shield your Apple iPhone 6 or 6s on the go with this Case-Mate Naked Tough CM031382 case, which features a 2-piece design with a rugged polycarbonate shell that guards against scratches and a coordinating bumper that resists damage caused by impacts.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images.hookbag.ca//image.jpg", 
+            "upc": "846127163453"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "CaseMate iPhone 6 Plus Case - Naked Tough-Handbags", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A4FT_1_2014110674261675.jpg", 
+            "upc": "846127163613"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "The Case-Mate Naked Tough Case (Clear/Clear) designed for maximum protection for your Motorola Droid Turbo. The dual layers form together to guard against any fumbles. The ABS plastic hard shell wraps around the interior bumper for extra protection, as well as providing an easy-to-hold grip. The Tough Case provides dual layers of tough protection for your Motorola Droid Turbo. The Case-Mate Naked Tough Case is a protective, two-piece case. The case is created with an ultra slim design. The lightweight, min...", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://img1.r10.io/PIC/93849594/0/1/250/93849594.jpg", 
+            "upc": "846127164320"
+        }
+    ], 
+    "title": "Motorola Droid Turbo Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "The Case-Mate Naked Tough Smoke/Black Case is a clear, dual-layered case for 5.5\" iPhone 6 plus that offers a smooth transparent finish and ultra slim design. Its lightweight, minimalist design delivers a stylish profile, while the impact resistant hard s", 
+    "types": [
+        {
+            "color": "Smoke With Black Bumper", 
+            "imageurl": "http://i1.expansys.com/img/l/266081/case-mate-tough-naked-for-apple-iphone-6-plus-grey.jpg", 
+            "upc": "846127164399"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Ultra Slim, Dual-Layer Design With Protective Bumper/ Enhanced Impact Resistance And Shock Dispersion/ Transparent Smooth Finish With Anti-Scratch Technology/ Metal Button Accents For A Refined Finish/ Clear Finish", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://i1.expansys.com/img/l/269608/case-mate-tough-naked-case-for-samsung-galaxy-note-4-clear-clear.jpg", 
+            "upc": "846127164603"
+        }
+    ], 
+    "title": "Galaxy Note 4 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Ultra Slim/ Dual-Layer Design With Protective Bumper/ Integrated Stand/ Lightweight/ Minimalist Design/ Transparent Smooth Finish With Anti-Scratch Technology/ Nexus 6 Not Included/ Clear Finish", 
+    "types": [
+        {
+            "color": "Clear With Clear Stand", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/86175996_1.jpg", 
+            "upc": "846127164634"
+        }
+    ], 
+    "title": "Motorola Nexus 6 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Compatible with Samsung Galaxy S 6 cell phones, this Case-Mate Naked Tough CM032321 transparent hard shell case features polycarbonate construction and a TPU bumper, offering enhanced impact resistance and shock absorption.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/85755912_1.jpg", 
+            "upc": "846127166775"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Case-Mate HTC One M9 Naked Tough Clear Warranty: Manufacturer's Warranty", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/83276750_1.jpg", 
+            "upc": "846127167000"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "This Case-Mate Naked Tough CM032404 case features polycarbonate material and a TPU bumper to absorb shock and protect your Samsung Galaxy S6 edge cell phone against minor damage. The smooth, scratch-resistant exterior offers durability and a sleek look.", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://images10.newegg.com/ProductImageCompressAll200/A17M_1_20160223645201005.jpg", 
+            "upc": "846127167130"
+        }
+    ], 
+    "title": "Galaxy S6 Edge Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Case-Mate - Naked Tough Case for LG G4 in Clear/Clear", 
+    "types": [
+        {
+            "color": "Clear With Clear Bumper", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/82799308_1.jpg", 
+            "upc": "846127167765"
+        }
+    ], 
+    "title": "LG G4 Case Mate Naked Tough"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Banish the risk of breaks with this Case-Mate Naked iPhone 7 case. Solid drop protection and shock dispersion ensure that any impacts are spread out evenly over the phone, keeping delicate internal components safe from accidents, while the ultra-slim design keeps this Case-Mate Naked iPhone 7 case from taking up too much space.", 
+    "types": [
+        {
+            "color": "Iridescent", 
+            "imageurl": "https://cdn.shopify.com/s/files/1/0796/3401/products/cmi_Jeep_Naked-Tough-Iridescent_CM034674_1_72437214-7b36-45e9-a8a9-c8534f140e45.png?v=1473364375", 
+            "upc": "846127171830"
+        }
+    ], 
+    "title": "iPhone 7 Case Mate Naked Tough Case"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Get a case that works as hard your iPhone with this Case-Mate Tough iPhone 7 Plus case. Metal buttons add a delicate counterpoint to the iridescent effect and also protect your phone's buttons. Enhanced shock dispersion from this Case-Mate Tough iPhone 7 Plus case prevents accidents from turning into calamities.", 
+    "types": [
+        {
+            "color": "Iridescent", 
+            "imageurl": "https://cdn.shopify.com/s/files/1/0796/3401/products/cmi_Landrover_Naked-Tough-Iridescent_CM034756_1.png?v=1473366397", 
+            "upc": "846127172240"
+        }
+    ], 
+    "title": "iPhone 7+ Case Mate Naked Tough Case"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Make your Apple iPhone 6 or 6s sparkle with this Case-Mate The Glam Collection Sheer Glam CM031409 case, which features a translucent, glitter-coated inlay for a distinctive look. The dual-layer design and bumper safeguard your device on the go.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://target.scene7.com/is/image/Target/50598840?wid=1000&hei=1000", 
+            "upc": "846127163552"
+        }
+    ], 
+    "title": "iPhone 6/6s Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Protect your Apple iPhone 6 Plus or 6s Plus with this Case-Mate The Glam Collection Sheer Glam CM031439 case, which features a dual-layer design that offers defense against shocks and impacts. The translucent, glitter-coated inlay offers an attractive look.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/1523/29902851_1.jpg", 
+            "upc": "846127163590"
+        }
+    ], 
+    "title": "iPhone 6+/6s+ Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Shield your Samsung Galaxy S 6 cell phone with this Case-Mate Sheer Glam CM032327 case, which features a hard shell constructed of durable polycarbonate material and a soft TPU bumper for enhanced shock absorption.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/82878938_1.jpg", 
+            "upc": "846127166805"
+        }
+    ], 
+    "title": "Galaxy S6 Case Mate Sheer Glam"
+}
+
+{
+    "category": "Case", 
+    "price": 35.0, 
+    "description": "Safeguard your HTC One (M9) cell phone with this Case-Mate Sheer Glam CM032441 hard shell case, which absorbs shock from drops as high as 3' to help prevent damage to your device. Metal button accents and a translucent glitter effect offer a fun look.", 
+    "types": [
+        {
+            "color": "Champagne", 
+            "imageurl": "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/2496/85755679_1.jpg", 
+            "upc": "846127167208"
+        }
+    ], 
+    "title": "HTC One M9 Case Mate Sheer Glam"
+}
+
+null
+
+null
+
+null
+
