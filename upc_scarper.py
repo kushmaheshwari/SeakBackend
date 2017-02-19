@@ -73,21 +73,25 @@ def main():
 def addTypeExistingDictSingleDash(previousdict, line_split_comma, title_split_dash):
 	data = getItemInfo(line_split_comma[1])
 	items = data["items"]
-	itemsDict = items[0]
-	images = itemsDict["images"]
+	if len(items) > 0:
+		itemsDict = items[0]
+		images = itemsDict["images"]
 
-	typelist = previousdict["types"]
+		typelist = previousdict["types"]
 
-	type_json = {}
-	type_json["color"] = title_split_dash[1]
-	type_json["imageurl"] = images[0]
-	type_json["upc"] = line_split_comma[1]
+		type_json = {}
+		type_json["color"] = title_split_dash[1]
+		if len(images) > 0:
+			type_json["imageurl"] = images[0]
+		else:
+			type_json["imageurl"] = ""
+		type_json["upc"] = line_split_comma[1]
 
-	typelist.append(type_json)
+		typelist.append(type_json)
 
-	previousdict["types"] = typelist
+		previousdict["types"] = typelist
 
-	return previousdict
+		return previousdict
 
 def addTypeExistingDictDoubleDash(previousdict, line_split_comma, title_split_dash):
 	data = getItemInfo(line_split_comma[1])
@@ -100,7 +104,10 @@ def addTypeExistingDictDoubleDash(previousdict, line_split_comma, title_split_da
 
 	type_json = {}
 	type_json["color"] = title_split_dash[2]
-	type_json["imageurl"] = images[0]
+	if len(images) > 0:
+		type_json["imageurl"] = images[0]
+	else:
+		type_json["imageurl"] = ""
 	type_json["upc"] = line_split_comma[1]
 
 	typelist.append(type_json)
@@ -128,7 +135,10 @@ def makeMultipleTypeTwoDash(line, line_split_comma,title_split_dash):
 	images = itemsDict["images"]
 	type_json = {}
 	type_json["color"] = title_split_dash[1]
-	type_json["imageurl"] = images[0]
+	if len(images) > 0:
+		type_json["imageurl"] = images[0]
+	else:
+		type_json["imageurl"] = ""
 	type_json["upc"] = line_split_comma[1]
 
 	typelist = []
@@ -160,7 +170,10 @@ def makeMultipleTypeSingleDash(line, line_split_comma,title_split_dash):
 	images = itemsDict["images"]
 	type_json = {}
 	type_json["color"] = title_split_dash[1]
-	type_json["imageurl"] = images[0]
+	if len(images) > 0:
+		type_json["imageurl"] = images[0]
+	else:
+		type_json["imageurl"] = ""
 	type_json["upc"] = line_split_comma[1]
 
 	typelist = []
@@ -185,7 +198,10 @@ def makeSingleType(line, line_split_comma,title_split_dash):
 
 	images = itemsDict["images"]
 	type_json = {}
-	type_json["imageurl"] = images[0]
+	if len(images) > 0:
+		type_json["imageurl"] = images[0]
+	else:
+		type_json["imageurl"] = ""
 	type_json["upc"] = line_split_comma[1]
 
 	typelist = []
